@@ -204,7 +204,7 @@ begin
 
 o_address <= address_counter;
     
- -- Fine generatore di ingirizzi
+ -- Fine generatore di indirizzi
  
  -- Registro inidirzzo da codificare
     to_code_register: process(i_clk, i_rst)
